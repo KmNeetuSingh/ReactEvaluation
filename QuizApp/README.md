@@ -64,3 +64,19 @@ quiz-app/
 │
 │
 └── package.json
+###  Happy Coding....
+# How to approach the problem....
+First  read the questions.
+Analyze the problem .
+Distribute in a small tasks .
+Create a structure .
+Create components.
+Add into in main file .
+Create route and then hook 
+for state mangement using redux.
+Using localstorage for data Storage.
+At last run and debug the code.
+Pushed and Deploy the code .
+
+
+## Keep Learning and Keep Coding..
