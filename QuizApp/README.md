@@ -46,21 +46,21 @@ quiz-app/
 │
 ├── src/
 │   ├── components/
-│   │   ├── QuizSetup.js
-│   │   ├── QuizPage.js
-│   │   └── Leaderboard.js
+│   │   ├── QuizSetup.jsx
+│   │   ├── QuizPage.jsx
+│   │   └── Leaderboard.jsx
 │   │
 │   ├── redux/
-│   │   ├── store.js
-│   │   └── quizSlice.js
+│   │   ├── store.jsx
+│   │   └── quizSlice.jsx
 │   │
 │   ├── hooks/
 │   │   └── useLocalStorage.js
 │   │
-│   ├── App.js
-│   ├── index.js
+│   ├── App.jsx
+│   ├── main.jsx
 │   ├── routes/
-│     └── AppRoutes.js
+│     └── AppRoutes.jsx
 │
 │
 └── package.json
