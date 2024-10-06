@@ -39,31 +39,7 @@ Store user details and leaderboard data locally using localStorage. Create a cus
 
 #Task 4....
 Pushed the data and deployed it......So let's do it #Keep coding..
-quiz-app/
-│
-├── public/
-│   └── index.html
-│
-├── src/
-│   ├── components/
-│   │   ├── QuizSetup.jsx
-│   │   ├── QuizPage.jsx
-│   │   └── Leaderboard.jsx
-│   │
-│   ├── redux/
-│   │   ├── store.jsx
-│   │   └── quizSlice.jsx
-│   │
-│   ├── hooks/
-│   │   └── useLocalStorage.js
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│   ├── routes/
-│     └── AppRoutes.jsx
-│
-│
-└── package.json
+
 ###  Happy Coding....
 # How to approach the problem....
 First  read the questions.
