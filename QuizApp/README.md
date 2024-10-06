@@ -1,15 +1,15 @@
-###Quiz App task
+### Quiz App task
 Instructions:
 Use React to solve this question.
 Use Redux for global state management.
 You are free to use any CSS solutions as long as it looks good.
 The app should be deployed.
-##Research...
+## Research...
 Problem Statement:
 You are tasked with building a quiz application
 Your app should have three routes - Quiz Setup (/ - home route) - Quiz Page (/quiz) - Leaderboard (/leaderboard)
 
-#Task 1....
+# Task 1....
 Quiz Setup (/)
 Allow users to set up a quiz by providing: - Name - Category (General Knowledge, Sports, Geography) - Difficulty level - Number of questions
 
@@ -18,7 +18,7 @@ Refer to this documentation to retrieve trivia questions: <https://opentdb.com/a
 Sample API Request : <https://opentdb.com/api.php?amount=10&category=21&difficulty=hard&type=multiple>
 Upon clicking START QUIZ button, navigate the use to to Quiz Page on route /quiz where questions corresponding to the selected category and difficulty should be rendered.
 
-#Task2.......
+# Task2.......
 Quiz Page (/quiz)
 Questions should be rendered one at a time, along with the relevant options for each question.
 Add a timer to each question based on its difficulty level: 10 seconds for hard questions, 15 seconds for medium, and 20 seconds for easy.
@@ -31,13 +31,13 @@ After submitting the quiz, display the user's performance metrics, including the
 Create a /leaderboard route to display the results of all users who have participated in the quiz. Ensure the leaderboard is sorted by scores, with the highest-scoring user at the top of the list.
 Store user details and leaderboard data locally using localStorage. Create a custom useLocalStorage hook to get and set items in localStorage.
 
-#Task 3....
+# Task 3....
 Leaderboard (/leaderboard)
 Create a /leaderboard route to display the results of all users who have participated in the quiz, and add the leaderboard route to the Navbar.
 Ensure the leaderboard is sorted by scores, with the highest-scoring user at the top of the list.
 Store user details and leaderboard data locally using localStorage. Create a custom useLocalStorage hook to manage getting and setting items in localStorage.
 
-#Task 4....
+# Task 4....
 Pushed the data and deployed it......So let's do it #Keep coding..
 
 ###  Happy Coding....
